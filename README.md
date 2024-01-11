@@ -5,6 +5,8 @@
 ## Overview
 TB3 Android App is a comprehensive application designed to manage various aspects of buildings, including rooms, windows, heaters, and temperature sensors. This project aims to simulate and understand energy usage efficiency, particularly during winter seasons.
 
+![assets/andriod.png](assets/andriod.png)
+
 ## Features
 - **Building Management:** Control and monitor various building aspects.
 - **Room and Window Indicators:** Keep track of room conditions and window statuses.
