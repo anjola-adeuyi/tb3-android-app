@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">automacorp</string>
+    <string name="app_logo_description">automacorp logo</string>
+
+    <string name="act_main_windowname_hint">Window name</string>
+    <string name="act_main_welcome">Welcome on automacorp,\n the app to manage building windows</string>
+    <string name="act_main_open_window">Open window</string>
+    <string name="act_main_open_room">Open room</string>
+
+    <string name="act_window_main">Window name</string>
+
+    <string name="act_room_name">Room name</string>
+    <string name="act_room_current_temperature">Current temperature</string>
+    <string name="act_room_target_temperature">Target temperature</string>
+
+    <string name="menu_rooms">Building rooms</string>
+    <string name="menu_website">Our website</string>
+    <string name="menu_email">Send us an email</string>
+
+    <string name="room_name">Room name</string>
+    <string name="room_current_temperature">Current temperature</string>
+    <string name="room_target_temperature">Target temperature</string>
+    <string name="room_save_action">Save room</string>
+
+    <string name="window_name">Window name</string>
+</resources>
